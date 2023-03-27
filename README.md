@@ -8,6 +8,17 @@
 
 ---
 
+<h2> In this project I used the following methods </h2>
+
+<p>📌I used pandas to understand the data.</p>
+<p>📌I used seaborn and matplotlib to visualize the data.</p>
+<p>📌I used sklearn for many operations such as data preprocessing and classification performance criteria.</p>
+<p>📌I used LightGBM for the classification model.</p>
+<p>📌I used optuna optimization tool for hyperparameter optimization.</p>
+<p>📌I used oversampling method for data imbalance.</p>
+
+---
+
 <h2> Dataset Story </h2>
 
 **The data set consists of information from Scoutium, which includes the features and scores of the football players evaluated by the scouts according to the characteristics of the footballers observed in the matches.**
