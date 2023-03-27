@@ -50,4 +50,6 @@ Sr. | Feature  | Description |
 3 | evaluator_id | The id of the evaluator(scout)
 4 | player_id | The id of the player
 5 | potential_label | Label showing the final decision of an observer regarding a player in the match. (target variable)
+  
+---
 
